@@ -1,7 +1,3 @@
-# UI tests for unstable features
-
-These tests check how the guarantees and features provided by pin-project
-interact with unstable language features.
-
-The names of the files contained in this directory need to begin with the name
-of the feature.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9dcf95e9c68fe15345f493a3fb4f54726d36c76d1a5a1e2c9dfa25540d4b642
+size 246
